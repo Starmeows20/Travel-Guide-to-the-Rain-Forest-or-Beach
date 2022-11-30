@@ -39,6 +39,26 @@
         
         
         
+        .reg-text{
+        
+        
+        color:blue;
+        
+        
+        
+        
+        
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
     </style>
     
     
@@ -132,7 +152,7 @@
       
       <p>*If you don't know what that is, look it up on Google.</p>
       
-      <h2>Version
+      <h2 class="reg-text">Version
          
       </h2>
       
